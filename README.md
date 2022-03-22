@@ -1,3 +1,2 @@
 # spring-boot-crud
-spring boot demo application
-
+Spring boot application uses the Postgres to store the resource.
